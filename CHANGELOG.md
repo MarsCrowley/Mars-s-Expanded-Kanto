@@ -2,6 +2,11 @@
 
 All notable public changes to Mars's Expanded Kanto are documented here.
 
+
+## 1.0.1
+
+- fixed sprite cache issue
+
 ## 1.0.0
 
 First public-release package.
